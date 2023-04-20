@@ -1,0 +1,527 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.weboin-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.b-navbar {
+    background-color: white;
+
+}
+
+#navbarCard {
+    background-color: white;
+    border-radius: 10px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    animation: all 0.3s;
+}
+
+#navItem1:hover {
+    color: #2c7bfe;
+    transform: scale(1.1);
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+    animation: all 0.3s;
+}
+
+#navItem2:hover {
+    color: #2c7bfe;
+    transform: scale(1.1);
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+    animation: all 0.3s;
+}
+
+#navItem3:hover {
+    color: #2c7bfe;
+    transform: scale(1.1);
+
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+    animation: all 0.3s;
+}
+
+#navItem4:hover {
+    color: #2c7bfe;
+    transform: scale(1.1);
+}
+
+#navbarDropdownMenuLink {
+    color: #323f4b;
+    font-family: "Roboto";
+    animation: all 0.3s;
+}
+
+#navbarDropdownMenuLink:hover {
+    color: #2c7bfe;
+    transform: scale(1.1);
+}
+
+.dropdown-item {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.dropdown-item:hover {
+    color: #2c7bfe;
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+.digital-marketing-section{
+    background-color: #A563E4;
+}
+.digital-marketing-section-heading{
+    color:white;
+}
+.digital-marketing-section-para{
+    color:white;
+}
+
+
+
+.digital-agency {
+    background-color: #fff;
+
+}
+
+.da-img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.da-content-heading {
+    color: blue;
+
+}
+
+.da-heading {
+    color: black;
+    font-weight: bold;
+
+}
+
+.da-paragraph {
+    color: gray;
+
+}
+
+
+
+
+
+
+.digital-agency1 {
+    background-color: #fff;
+
+}
+
+.da-img1 {
+    width: 100%;
+    height: 100%;
+}
+
+.da-img1 {
+
+
+    border-radius: 10px;
+
+
+}
+
+.digital-agency1-heading {
+    color: blue;
+
+}
+
+.da-heading {
+    color: black;
+    font-weight: bold;
+
+}
+
+.da-paragraph {
+    color: gray;
+
+}
+
+.digital-agency1-button {
+    background-color: #2069F1;
+    border-color: #2069F1;
+    border: 1px;
+    padding: 10px;
+    width: 150px;
+    margin: 0 auto;
+    color: white;
+    font-weight: bold;
+}
+
+.digital-agency1-button:hover {
+    color: blue;
+    background-color: white;
+    border: 1px solid #2069F1;
+}
+
+
+
+
+.process-menu-section {
+    background-color: gray;
+}
+
+.skill {
+    width: 160px;
+    height: 160px;
+    position: relative;
+    text-align: center;
+}
+
+.outer {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+        -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
+    padding: 20px;
+}
+
+.inner {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 4px 4px 6px -1px rgba(0, 0, 0, 0.2),
+        inset -4px -4px 6px -1px rgba(255, 255, 255, 0.7),
+        -0.5px -0.5px 0px rgba(255, 255, 255, 1),
+        0.5px 0.5px 0px rgba(0, 0, 0, 0.15),
+        0px 12px 10px -10px rgba(0, 0, 0, 0.5);
+}
+
+#number {
+    font-weight: 600px;
+    color: #555;
+}
+
+.process-item-card {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.one circle {
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 472;
+    animation: anim1 2s linear forwards;
+}
+
+.two circle {
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 472;
+    animation: anim2 2s linear forwards;
+}
+
+.three circle {
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 472;
+    animation: anim3 2s linear forwards;
+}
+
+.four circle {
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 472;
+    animation: anim4 2s linear forwards;
+}
+
+svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+@keyframes anim1 {
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes anim2 {
+    100% {
+        stroke-dashoffset: 60;
+    }
+}
+
+@keyframes anim3 {
+    100% {
+        stroke-dashoffset: 80;
+    }
+}
+
+@keyframes anim4 {
+    100% {
+        stroke-dashoffset: 60;
+    }
+}
+
+.skill-heading {
+    color: #555;
+    font-size: 100%;
+}
+
+.process-img {
+    width: 100%;
+    height: 80%;
+}
+
+.process-heading {
+    color: white;
+    font-weight: bold;
+}
+
+.process-para {
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+.question-section {
+    background-color: #2069F1;
+
+    width: 100%;
+    background-size: cover;
+
+}
+
+.question-container {
+    border-radius: 20px;
+}
+
+.qsend-btn {
+    padding: 5px 15px 5px 15px;
+    margin: 0 auto;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    height: 60px;
+    margin-top: 50px;
+
+}
+
+.qsend-btn:hover {
+    color: blue;
+    background-color: white;
+
+}
+
+.send-btn {
+    padding: 5px 15px 5px 15px;
+    margin: 0 auto;
+    color: white;
+    background-color: #2069F1;
+    border-radius: 10px;
+    height: 60px;
+    margin-top: 10px;
+    border-color: white;
+}
+
+.send-btn:hover {
+    color: #2069F1;
+    font-weight: bold;
+    background-color: white;
+    border-color: #2069F1;
+
+}
+
+.question-section-card {
+    background-color: #fff;
+}
+
+.question-container {
+    background-color: #fff;
+}
+
+.quote-heading {
+    color: yellow;
+}
+
+.quote-heading1 {
+    color: white;
+    font-weight: bold;
+}
+
+.quote-heading2 {
+    color: white;
+    font-weight: bold;
+}
+
+.qoute-detail {
+    color: lightgray;
+    font-weight: bold;
+}
+
+.qoute-detail:hover {
+    color: yellow;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+/** */
+
+
+
+
+
+
+
+
+.footer-section-container {
+    max-width: 1170px;
+
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-lis {
+    list-style: none;
+}
+
+.footer-section {
+    background-color: #052B73;
+
+    padding: 70px 0;
+}
+
+.footer-col {
+    width: 25%;
+    padding: 0 15px;
+}
+
+.footer-heading {
+    font-size: 18px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    font-weight: 500;
+    position: relative;
+}
+
+.footer-heading:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+
+    height: 2px;
+
+    width: 50px;
+}
+
+.footer-heading:hover {
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+
+.footer-col ul li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.footer-col ul li a {
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 300;
+
+    display: block;
+    transition: all 0.3s ease;
+}
+
+.footer-col ul li a:hover {
+    color: #ffffff;
+    padding-left: 8px;
+    font-weight: bold;
+}
+
+.footer-col .social-links a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: #5A90F5;
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+
+.footer-col .social-links a:hover {
+    color: #24262b;
+    background-color: #ffffff;
+}
+
+/*responsive*/
+@media(max-width: 767px) {
+    .footer-col {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width: 574px) {
+    .footer-col {
+        width: 100%;
+    }
+}
